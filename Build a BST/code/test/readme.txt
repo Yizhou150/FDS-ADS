@@ -1,0 +1,1 @@
+Our test part consists of correctness test and time consumption test. The correctness test programs are in the CorrectnessTest folder and the time consumption test programs are in the TimeConsumption folder. The two GenerateTree.c and two testfile.c in the two folders have slight different, please do not confound them.
